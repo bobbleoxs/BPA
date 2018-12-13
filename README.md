@@ -13,9 +13,9 @@ The project is inspired by Daniel Attinger et al's paper __Fluid dynamics topics
 
 **Code:**
 
-Pre-process images (process.py)
-Train vector embeddings (make_training_embeddings.ipynb)
-Predict new pattern (splat_predict.py)
+* Pre-process images (process.py)  
+* Train vector embeddings (make_training_embeddings.ipynb)  
+* Predict new pattern (splat_predict.py)  
 
 **Team:**
 
