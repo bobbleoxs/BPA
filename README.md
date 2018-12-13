@@ -5,8 +5,11 @@ Bloodstain Pattern Analysis
 **Hack The Police 3: Hackathon Project**
 
 **Hack The Police**
-Team Splatterns Presentation
-Images: You will need to populate the /images/raw/ folder. We have taken the images from videos created by Daniel Attinger et all for their paper Fluid dynamics topics in bloodstain pattern analysis: Comparative review and research opportunities and cannot republish their images here due to licensing. Please contact us if you are interested in replicating our work.
+
+Images: You will need to populate the /images/raw/ folder. We have taken the last frame image from videos created by 
+The Midwest Forensics Resource Center - It can be accessed [here.] (https://alvideo.ameslab.gov/archive/bpa-videos/)
+
+The project is inspired by Daniel Attinger et al's paper __Fluid dynamics topics in bloodstain pattern analysis: Comparative review and research opportunities__ . Please contact us if you are interested in replicating our work.
 
 **Code:**
 
@@ -20,3 +23,7 @@ Shan Sun
 Gordon Blackadder
 John Sandall
 James Curtis
+
+**Presentation**
+
+[Team Splatterns Presentation on Bloodstain Pattern Analysis](https://docs.google.com/presentation/d/1pXqJ8Sc7inDcoLbI4TLzmcNjQf1lrok-zEOgy0YLOvA/edit#slide=id.p) 
