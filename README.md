@@ -7,7 +7,7 @@ Bloodstain Pattern Analysis
 **Hack The Police**
 
 Images: You will need to populate the /images/raw/ folder. We have taken the last frame image from videos created by 
-The Midwest Forensics Resource Center - It can be accessed [here.] (https://alvideo.ameslab.gov/archive/bpa-videos/)
+The Midwest Forensics Resource Center - It can be accessed [here.](https://alvideo.ameslab.gov/archive/bpa-videos/)
 
 The project is inspired by Daniel Attinger et al's paper __Fluid dynamics topics in bloodstain pattern analysis: Comparative review and research opportunities__ . Please contact us if you are interested in replicating our work.
 
